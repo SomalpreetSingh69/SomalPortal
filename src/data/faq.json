@@ -1,0 +1,27 @@
+[
+    {
+      "question": "What is Hirrd?",
+      "answer": "Hirrd is a comprehensive Job Portal Application designed for both job seekers and employers. It allows companies to post job opportunities, while job seekers can search and apply for positions. With intuitive interfaces and secure authentication, Hirrd makes the hiring process seamless, helping employers find the right talent and job seekers connect with their ideal jobs."
+    },
+    {
+      "question": "How do I post a job?",
+      "answer": "To post a job, first log in as an employer. Then, go to the 'Post Job' section, where you can fill out a detailed form with information about the job position, including title, description, location, and requirements. Once you submit the form, the job listing will be available for job seekers to view and apply."
+    },
+    {
+      "question": "How can I search for jobs?",
+      "answer": "Job seekers can easily search for jobs by entering keywords, selecting a location, or choosing a category in the search bar located on the homepage. Additional filters are available on the job search page to help narrow down results and find positions that best match your preferences and qualifications."
+    },
+    {
+      "question": "How do I apply for a job?",
+      "answer": "To apply for a job, browse or search for a position that interests you and click on the job listing to view details. You’ll find an 'Apply' button or similar instructions for submitting your application. Typically, you’ll need to upload your resume and fill in additional information as required by the employer."
+    },
+    {
+      "question": "Can I save jobs to apply later?",
+      "answer": "Yes, you can save jobs to review or apply later. Simply click the 'Save Job' button on the job listing page, and the job will be added to your 'Saved Jobs' section in your profile. This feature lets you keep track of interesting job opportunities and access them easily when you’re ready to apply."
+    },
+    {
+      "question": "How do I track my job applications?",
+      "answer": "After applying for jobs, you can track the status of each application from the 'Applications' section in your profile. This section provides real-time updates on the progress of your applications, such as whether it’s under review, shortlisted, or if there are any additional steps required."
+    }
+  ]
+  
